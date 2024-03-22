@@ -247,3 +247,4 @@ def game_loop():
 
 start_game()
 #starts the game again.
+#loops the game.
